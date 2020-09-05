@@ -1,0 +1,6 @@
+- read_excel
+- .str.findall()   str.replace() str.strip()
+- set_index()  reset_index()
+- sort_values() sort_index()
+- groupby()
+- pivot_table()
